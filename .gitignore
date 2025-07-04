@@ -120,3 +120,5 @@ exp/
 data
 
 .DS_Store
+
+/detector/nms/src/soft_nms_cpu.cpp
